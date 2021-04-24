@@ -1,2 +1,2 @@
-# python-data-visualization
-Python for data visualization
+# Python for Data Visualization
+
