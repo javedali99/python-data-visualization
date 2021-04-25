@@ -3,7 +3,7 @@
 
 </br>
 
-This repository contains sample code scripts for creating awesome data visualizations using `python` from scratch with the help of example notebooks. For sample code for data visualization, please check individual folder.
+This repository contains sample code scripts for creating awesome data visualizations from scratch using different `python` libraries (such as `matplotlib`, `plotly`, `seaborn` etc.) with the help of example notebooks. For sample code with datasets, please check individual folder.
 
 </br>
 
