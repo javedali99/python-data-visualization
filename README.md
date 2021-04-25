@@ -1,8 +1,10 @@
- <p align="left">
+ <p align="center">
   <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
   <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
  <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
 </p>
+
+</br>
 
 ![Data-Visualization-in-Python](https://user-images.githubusercontent.com/15319503/115972543-04513e80-a51d-11eb-8466-5f460b3cb1e0.png)
 
