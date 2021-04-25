@@ -3,7 +3,8 @@
 
 </br>
 
-This repository contains sample code scripts for creating awesome data visualizations from scratch using different `python` libraries (such as `matplotlib`, `plotly`, `seaborn` etc.) with the help of example notebooks. For sample code with datasets, please check individual folder.
+This repository provides a detailed introduction to data visualization python libraries such as `matplotlib`, `plotly`, `seaborn`. This repository contains sample code scripts for creating awesome data visualizations from scratch using different `python` libraries with the help of example notebooks. For sample code with datasets, please check individual folder.
+
 
 </br>
 
