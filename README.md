@@ -3,6 +3,10 @@
 
 </br>
 
+This repository contains sample code scripts for creating awesome data visualizations using `python` from scratch with the help of example notebooks. For sample code for data visualization, please check individual folder.
+
+</br>
+
 ## Python libraries for data visualization
 
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
