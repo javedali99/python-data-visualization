@@ -12,11 +12,15 @@
 
 </br>
 
+
 This repository contains sample code scripts for creating awesome data visualizations from scratch using different `python` libraries (such as `matplotlib`, `plotly`, `seaborn`) with the help of example notebooks. For sample code with datasets, please check individual folder.
 
 If you find these resources useful, give this repository a star ⭐️. 
 
 
+</br>
+
+<a href="https://mybinder.org/v2/gh/javedali99/python-data-visualization/HEAD"><img src="https://mybinder.org/badge_logo.svg"></a>
 </br>
 
 ## Python libraries for data visualization
