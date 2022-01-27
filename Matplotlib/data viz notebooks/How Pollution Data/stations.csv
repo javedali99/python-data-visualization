@@ -1,0 +1,31 @@
+,location,station,long,lat
+0,"{'type': 'Point', 'coordinates': [106.9213833, 47.9329056]}",100 ail,106.9213833,47.9329056
+1,"{'type': 'Point', 'coordinates': [106.997907, 47.913429]}",Amgalan,106.997907,47.913429
+2,"{'type': 'Point', 'coordinates': [106.8941944, 47.9153833]}",Baruun 4 zam,106.8941944,47.9153833
+3,"{'type': 'Point', 'coordinates': [106.865684, 47.924417]}",Bayangol 9r khoroo,106.865684,47.924417
+4,"{'type': 'Point', 'coordinates': [106.822752, 47.95756]}",Bayankhoshuu,106.822752,47.95756
+5,"{'type': 'Point', 'coordinates': [106.931421, 47.939127]}",Bayanzrukh 27r khoroo,106.931421,47.939127
+6,"{'type': 'Point', 'coordinates': [106.943219, 47.953734]}",Bayanzurkh 21r khoroo,106.943219,47.953734
+7,"{'type': 'Point', 'coordinates': [106.987388, 47.925953]}",Bayanzurkh 24r khoroo,106.987388,47.925953
+8,"{'type': 'Point', 'coordinates': [106.935634, 47.933672]}",Bayanzurkh 2r khoroo,106.935634,47.933672
+9,"{'type': 'Point', 'coordinates': [107.006293, 47.935863]}",Bayanzurkh 9r khoroo,107.006293,47.935863
+10,"{'type': 'Point', 'coordinates': [106.9373611, 47.9176056]}",Bukhiin urguu,106.9373611,47.9176056
+11,"{'type': 'Point', 'coordinates': [106.770765, 47.857916]}",Khan-Uul 16r khoroo,106.770765,47.857916
+12,"{'type': 'Point', 'coordinates': [106.803913, 47.866314]}",Khan-Uul 7r khoroo,106.803913,47.866314
+13,"{'type': 'Point', 'coordinates': [106.888629, 47.929732]}",MNB,106.888629,47.929732
+14,"{'type': 'Point', 'coordinates': [106.8824722, 47.8943389]}",Misheel expo,106.8824722,47.8943389
+15,"{'type': 'Point', 'coordinates': [106.8507083, 47.9035389]}",Mongol gazar,106.8507083,47.9035389
+16,"{'type': 'Point', 'coordinates': [106.779094, 47.863943]}",Nisekh,106.779094,47.863943
+17,"{'type': 'Point', 'coordinates': [106.793034, 47.937128]}",Songinoikhairkhan 26r khoroo,106.793034,47.937128
+18,"{'type': 'Point', 'coordinates': [106.826962, 47.953246]}",Songinoikhairkhan 67r Surguuli,106.826962,47.953246
+19,"{'type': 'Point', 'coordinates': [106.836971, 47.957138]}",Songinoikhairkhan 9r khoroo,106.836971,47.957138
+20,"{'type': 'Point', 'coordinates': [106.848061, 47.917981]}",Songinokhairkhan,106.848061,47.917981
+21,"{'type': 'Point', 'coordinates': [106.794645, 47.922826]}",Songinokhairkhan 3r khoroo,106.794645,47.922826
+22,"{'type': 'Point', 'coordinates': [106.817432, 47.932849]}",Songinokhairkhan 5r khoroo,106.817432,47.932849
+23,"{'type': 'Point', 'coordinates': [106.929907, 47.968355]}",Sukhbaatar 16r khoroo,106.929907,47.968355
+24,"{'type': 'Point', 'coordinates': [106.913833, 47.929507]}",Sukhbaatar 9r khoroo,106.913833,47.929507
+25,"{'type': 'Point', 'coordinates': [106.794805, 47.922495]}",Tolgoit,106.794805,47.922495
+26,"{'type': 'Point', 'coordinates': [106.91701, 47.914649]}",Tuv Nomiin San,106.91701,47.914649
+27,"{'type': 'Point', 'coordinates': [106.92947, 47.928387]}",US Embassy in Ulaanbaatar,106.92947,47.928387
+28,"{'type': 'Point', 'coordinates': [107.1180194, 47.8664611]}",Urgakh naran,107.1180194,47.8664611
+29,"{'type': 'Point', 'coordinates': [106.91161, 47.885564]}",Zaisan Buddha Garden,106.91161,47.885564

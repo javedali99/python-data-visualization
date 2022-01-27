@@ -1,0 +1,34 @@
+﻿name,name_mn,source,address,lat,lon,type
+Nisekh,Нисэх,agaar.mn,"Улаанбаатар хот, Хан-Уул дүүрэг, 16-р хороо, Герман хаус",47.863943,106.779094,"PM10, PM2.5, CO, SO2, NO2, O3"
+Tolgoit,Толгойт,agaar.mn,"Улаанбаатар хот, Сонгинохайрхан дүүрэг, 3-р хороо, 65-р сургуулын хойд талд",47.922495,106.794805,"PM10, PM2.5, CO, SO2, NO2, O3"
+MNB,МҮОНРТ,agaar.mn,"Улаанбаатар хот, Баянгол дүүрэг, 11-р хороо, Монголын үндэсний телевизийн хойд буланд",47.929732,106.888629,"PM10, PM2.5, CO, SO2, NO2, O3"
+Amgalan,Амгалан,agaar.mn,"Улаанбаатар хот, Баянзүрх дүүрэг, 8-р хороо, Өнө Амгалан Төв",47.913429,106.997907,"PM10, PM2.5, CO, SO2, NO2, O3"
+Misheel Expo,Мишээл экспо,agaar.mn,"Улаанбаатар хот, Хан-Уул дүүрэг, 3-р хороо, Чингисийн өргөн чөлөө, Мишээл экспо төвийн баруун талд",47.8943389,106.8824722,"PM10, CO, SO2, NO2, O3"
+Baruun 4 Zam,Баруун 4 зам,agaar.mn,"Улаанбаатар хот, Баянгол дүүрэг, 2-р хороо, Энх тайвны өргөн чөлөө, барилгын коллежийн хашаанд",47.9153833,106.8941944,"PM10, PM2.5, CO, SO2, NO2"
+Wrestling Palace,Бөхийн өргөө,agaar.mn,"Улаанбаатар хот, Баянзүрх дүүрэг, 15-р хороо, Хаус сэрвисийн зүүн талд",47.9176056,106.9373611,"PM10, PM2.5, CO, SO2, NO2, O3"
+100 ail,100 айл,agaar.mn,"Улаанбаатар хот, Сүхбаатар дүүрэг, 10-р хороо, 69-р цэцэрлэгийн хашаан дотор",47.9329056,106.9213833,"PM10, CO, SO2, NO2, O3"
+Mongol gazar,Монгол газар,agaar.mn,"Улаанбаатар хот, Баянгол дүүрэг, 20-р хороо, Монгол газар ХХК-ны зүүн урд",47.9035389,106.8507083,"PM10, CO, SO2, NO2"
+Urgakh naran,Ургах наран,agaar.mn,"Улаанбаатар хот, Баянзүрх дүүрэг, 11-р хороо, Ургах наран хорооллоос зүүн урд",47.8664611,107.1180194,"PM10, CO, SO2, NO2, O3"
+Bayankhoshuu,Баянхошуу,agaar.mn,"Улаанбаатар хот, Сонгинохайрхан дүүрэг, 7-р хороо, Худгын хажууд",47.95756,106.822752,"PM10, PM2.5, SO2"
+#1 Khoroolol,1-р хороолол,agaar.mn,"Улаанбаатар хот, Сонгинохайрхан дүүрэг, 12-р хороо, Сонгинохайрхан дүүрэг, 12-р хороо, 1-р хороолол",47.917981,106.848061,"PM10, PM2.5, CO, SO2, NO2"
+UB-11,УБ-11,tsag-agaar.gov.mn,,47.951,106.904,"PM10, SO2, NO2"
+UB-3,УБ-3,tsag-agaar.gov.mn,,47.917,106.848,"SO2, NO2"
+UB-9,УБ-9,tsag-agaar.gov.mn,,47.981,106.94,"SO2, NO2"
+UB-6,УБ-6,tsag-agaar.gov.mn,,47.913,106.972,"SO2, NO2"
+US Embassy,,stateair.mn,,47.928,106.929,PM2.5
+Bayangol 9r khoroo,,People in Need,,47.924417,106.865684,PM2.5
+Bayanzrukh 27r khoroo,,People in Need,,47.939127,106.931421,PM2.5
+Bayanzurkh 21r khoroo,,People in Need,,47.953734,106.943219,PM2.5
+Bayanzurkh 24r khoroo,,People in Need,,47.925953,106.987388,PM2.5
+Bayanzurkh 2r khoroo,,People in Need,,47.933672,106.935634,PM2.5
+Bayanzurkh 9r khoroo,,People in Need,,47.935863,107.006293,PM2.5
+Songinoikhairkhan 26r khoroo,,People in Need,,47.937128,106.793034,PM2.5
+Songinoikhairkhan 67r Surguuli,,People in Need,,47.953246,106.826962,PM2.5
+Songinoikhairkhan 9r khoroo,,People in Need,,47.957138,106.836971,PM2.5
+Songinokhairkhan,,People in Need,,47.917981,106.848061,PM2.5
+Songinokhairkhan 3r khoroo,,People in Need,,47.922826,106.794645,PM2.5
+Songinokhairkhan 5r khoroo,,People in Need,,47.932849,106.817432,PM2.5
+Sukhbaatar 16r khoroo,,People in Need,,47.968355,106.929907,PM2.5
+Sukhbaatar 9r khoroo,,People in Need,,47.929507,106.913833,PM2.5
+Tuv Nomiin San,,People in Need,,47.914649,106.91701,PM2.5
+Zaisan Buddha Garden,,People in Need,,47.885564,106.91161,PM2.5

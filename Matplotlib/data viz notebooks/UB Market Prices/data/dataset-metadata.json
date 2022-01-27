@@ -1,0 +1,29 @@
+{
+  "id": "robertritz/ub-market-prices",
+  "id_no": 1751784,
+  "datasetId": 1751784,
+  "datasetSlug": "ub-market-prices",
+  "ownerUser": "robertritz",
+  "usabilityRating": 1.0,
+  "totalViews": 675,
+  "totalVotes": 8,
+  "totalDownloads": 77,
+  "title": "Grocery Store Prices, Mongolia",
+  "subtitle": "Prices for largest markets/supermarkets in Ulaanbaatar, Mongolia",
+  "description": "### Context\n\nThe National Statistics Office of Mongolia goes to each major market to record food prices each week in Ulaanbaatar, the capital city of Mongolia. The main purpose for this is to monitor a common basket of goods for use in consumer price index (CPI) calculations. \n\n\n### Content\n\nThe data is in a long-form, with date, market, product, and price recorded. All prices are in Mongolian Tugriks. As of 2021 the USD to MNT is about 2850 MNT = 1 USD.\n\n### Acknowledgements\n\nThis dataset is possible thanks to the hard work of the people of the National Statistics Office of Mongolia.\n\n\n### Inspiration\n\nOften people choose supermarkets over the open markets (called a \"zakh\"). Mostly this is for convenience, but it is notable how much money people could save by choosing a different market!\n\nThis would be a great dataset for EDA or looking at how prices change over time. ",
+  "isPrivate": false,
+  "keywords": [
+    "asia",
+    "beginner",
+    "data visualization",
+    "time series analysis",
+    "food"
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}

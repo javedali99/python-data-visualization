@@ -1,0 +1,4 @@
+bs4==0.0.1
+xlrd
+openpyxl
+kaggle

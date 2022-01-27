@@ -1,0 +1,410 @@
+﻿Time,PM2.5 Value,Experiment,Minute
+11:42,1465,Squair - 1,1
+11:43,982,Squair - 1,2
+11:44,499,Squair - 1,3
+11:45,553,Squair - 1,4
+11:46,593,Squair - 1,5
+11:47,554,Squair - 1,6
+11:48,516,Squair - 1,7
+11:49,524,Squair - 1,8
+11:50,515,Squair - 1,9
+11:51,508,Squair - 1,10
+11:52,509,Squair - 1,11
+11:53,475,Squair - 1,12
+11:54,441,Squair - 1,13
+11:55,419,Squair - 1,14
+11:56,411,Squair - 1,15
+11:57,369,Squair - 1,16
+11:58,389,Squair - 1,17
+11:59,377,Squair - 1,18
+12:00,361,Squair - 1,19
+12:01,360,Squair - 1,20
+12:02,344,Squair - 1,21
+12:03,331,Squair - 1,22
+12:04,333,Squair - 1,23
+12:05,318,Squair - 1,24
+12:06,317,Squair - 1,25
+12:07,307,Squair - 1,26
+12:08,295,Squair - 1,27
+12:09,298,Squair - 1,28
+12:10,283,Squair - 1,29
+12:11,274,Squair - 1,30
+12:12,270,Squair - 1,31
+12:13,259,Squair - 1,32
+12:14,268,Squair - 1,33
+12:15,247,Squair - 1,34
+12:16,244,Squair - 1,35
+12:17,226,Squair - 1,36
+12:18,239,Squair - 1,37
+12:19,227,Squair - 1,38
+12:20,223,Squair - 1,39
+12:21,212,Squair - 1,40
+12:22,210,Squair - 1,41
+12:23,201,Squair - 1,42
+12:24,203,Squair - 1,43
+12:25,195,Squair - 1,44
+12:26,192,Squair - 1,45
+12:27,191,Squair - 1,46
+12:28,185,Squair - 1,47
+12:29,189,Squair - 1,48
+12:30,172,Squair - 1,49
+12:31,168,Squair - 1,50
+12:32,166,Squair - 1,51
+12:33,160,Squair - 1,52
+12:34,153,Squair - 1,53
+12:35,155,Squair - 1,54
+12:36,147,Squair - 1,55
+12:37,143,Squair - 1,56
+12:38,145,Squair - 1,57
+12:39,127,Squair - 1,58
+12:40,132,Squair - 1,59
+12:41,129,Squair - 1,60
+12:42,123,Squair - 1,61
+12:43,130,Squair - 1,62
+12:44,118,Squair - 1,63
+12:45,126,Squair - 1,64
+12:46,111,Squair - 1,65
+12:47,111,Squair - 1,66
+12:48,108,Squair - 1,67
+12:49,113,Squair - 1,68
+12:50,106,Squair - 1,69
+12:51,100,Squair - 1,70
+12:52,99,Squair - 1,71
+12:53,96,Squair - 1,72
+12:54,102,Squair - 1,73
+12:55,88,Squair - 1,74
+12:56,82,Squair - 1,75
+12:57,85,Squair - 1,76
+12:58,83,Squair - 1,77
+12:59,85,Squair - 1,78
+13:00,81,Squair - 1,79
+13:01,85,Squair - 1,80
+13:02,76,Squair - 1,81
+13:03,76,Squair - 1,82
+13:04,73,Squair - 1,83
+13:05,70,Squair - 1,84
+13:06,70,Squair - 1,85
+13:07,72,Squair - 1,86
+13:08,70,Squair - 1,87
+13:09,64,Squair - 1,88
+13:10,59,Squair - 1,89
+13:11,59,Squair - 1,90
+13:12,54,Squair - 1,91
+13:13,55,Squair - 1,92
+13:14,60,Squair - 1,93
+13:15,56,Squair - 1,94
+13:16,58,Squair - 1,95
+13:19,1439,Squair off,1
+13:20,1439,Squair off,2
+13:21,1439,Squair off,3
+13:22,1439,Squair off,4
+13:23,1439,Squair off,5
+13:24,1439,Squair off,6
+13:25,1439,Squair off,7
+13:26,1439,Squair off,8
+13:27,1439,Squair off,9
+13:28,1439,Squair off,10
+13:29,1439,Squair off,11
+13:30,1439,Squair off,12
+13:31,1439,Squair off,13
+13:32,1439,Squair off,14
+13:33,1439,Squair off,15
+13:34,1439,Squair off,16
+13:35,1439,Squair off,17
+13:36,1439,Squair off,18
+13:37,1439,Squair off,19
+13:38,1439,Squair off,20
+13:39,1439,Squair off,21
+13:40,1439,Squair off,22
+13:41,1439,Squair off,23
+13:42,1439,Squair off,24
+13:43,1439,Squair off,25
+13:44,1439,Squair off,26
+13:45,1439,Squair off,27
+13:46,1439,Squair off,28
+13:47,1439,Squair off,29
+13:48,1439,Squair off,30
+13:49,1439,Squair off,31
+13:50,1439,Squair off,32
+13:51,1439,Squair off,33
+13:52,1439,Squair off,34
+13:53,1439,Squair off,35
+13:54,1439,Squair off,36
+13:55,1439,Squair off,37
+13:56,1439,Squair off,38
+13:57,1439,Squair off,39
+13:58,1439,Squair off,40
+13:59,1439,Squair off,41
+14:00,1439,Squair off,42
+14:01,1439,Squair off,43
+14:02,1439,Squair off,44
+14:03,1439,Squair off,45
+14:04,1439,Squair off,46
+14:05,1439,Squair off,47
+14:06,1439,Squair off,48
+14:07,1439,Squair off,49
+14:08,1439,Squair off,50
+14:09,1439,Squair off,51
+14:10,1439,Squair off,52
+14:11,1439,Squair off,53
+14:12,1439,Squair off,54
+14:13,1439,Squair off,55
+14:14,1439,Squair off,56
+14:15,619,Squair off,57
+14:16,619,Squair off,58
+14:17,619,Squair off,59
+14:18,619,Squair off,60
+14:19,619,Squair off,61
+14:20,619,Squair off,62
+14:21,619,Squair off,63
+14:22,619,Squair off,64
+14:23,619,Squair off,65
+14:24,619,Squair off,66
+14:25,619,Squair off,67
+14:26,619,Squair off,68
+14:27,619,Squair off,69
+14:28,619,Squair off,70
+14:29,619,Squair off,71
+14:30,619,Squair off,72
+14:31,619,Squair off,73
+14:32,619,Squair off,74
+14:33,619,Squair off,75
+14:34,619,Squair off,76
+14:35,619,Squair off,77
+14:36,619,Squair off,78
+14:37,619,Squair off,79
+14:38,619,Squair off,80
+14:39,619,Squair off,81
+14:40,619,Squair off,82
+14:41,619,Squair off,83
+14:42,619,Squair off,84
+14:43,619,Squair off,85
+14:44,619,Squair off,86
+14:45,619,Squair off,87
+14:46,619,Squair off,88
+14:47,619,Squair off,89
+14:48,619,Squair off,90
+14:49,619,Squair off,91
+14:50,619,Squair off,92
+14:51,619,Squair off,93
+14:52,619,Squair off,94
+14:53,619,Squair off,95
+14:54,619,Squair off,96
+14:55,619,Squair off,97
+14:56,619,Squair off,98
+14:57,619,Squair off,99
+14:58,619,Squair off,100
+14:59,619,Squair off,101
+15:00,619,Squair off,102
+15:01,550,Squair off,103
+15:02,550,Squair off,104
+15:03,550,Squair off,105
+15:04,550,Squair off,106
+15:05,550,Squair off,107
+15:06,550,Squair off,108
+15:07,550,Squair off,109
+15:08,550,Squair off,110
+15:09,550,Squair off,111
+15:10,550,Squair off,112
+15:11,886,Squair - 2,1
+15:12,784,Squair - 2,2
+15:13,684,Squair - 2,3
+15:14,584,Squair - 2,4
+15:15,776,Squair - 2,5
+15:16,828,Squair - 2,6
+15:17,808,Squair - 2,7
+15:18,722,Squair - 2,8
+15:19,740,Squair - 2,9
+15:20,696,Squair - 2,10
+15:21,629,Squair - 2,11
+15:22,627,Squair - 2,12
+15:23,579,Squair - 2,13
+15:24,536,Squair - 2,14
+15:25,507,Squair - 2,15
+15:26,423,Squair - 2,16
+15:27,388,Squair - 2,17
+15:28,367,Squair - 2,18
+15:29,348,Squair - 2,19
+15:30,311,Squair - 2,20
+15:31,289,Squair - 2,21
+15:32,285,Squair - 2,22
+15:33,244,Squair - 2,23
+15:34,237,Squair - 2,24
+15:35,220,Squair - 2,25
+15:36,197,Squair - 2,26
+15:37,190,Squair - 2,27
+15:38,165,Squair - 2,28
+15:39,166,Squair - 2,29
+15:40,142,Squair - 2,30
+15:41,135,Squair - 2,31
+15:42,134,Squair - 2,32
+15:43,109,Squair - 2,33
+15:44,112,Squair - 2,34
+15:45,100,Squair - 2,35
+15:46,92,Squair - 2,36
+15:47,87,Squair - 2,37
+15:48,73,Squair - 2,38
+15:49,68,Squair - 2,39
+15:50,64,Squair - 2,40
+15:51,58,Squair - 2,41
+15:52,58,Squair - 2,42
+15:53,51,Squair - 2,43
+15:54,47,Squair - 2,44
+15:55,40,Squair - 2,45
+15:56,41,Squair - 2,46
+15:57,36,Squair - 2,47
+15:58,31,Squair - 2,48
+15:59,36,Squair - 2,49
+16:00,25,Squair - 2,50
+16:01,25,Squair - 2,51
+16:02,25,Squair - 2,52
+16:03,23,Squair - 2,53
+16:04,18,Squair - 2,54
+16:05,19,Squair - 2,55
+16:06,18,Squair - 2,56
+16:07,13,Squair - 2,57
+16:08,12,Squair - 2,58
+16:09,11,Squair - 2,59
+16:10,12,Squair - 2,60
+16:11,11,Squair - 2,61
+16:12,8,Squair - 2,62
+16:13,8,Squair - 2,63
+16:14,6,Squair - 2,64
+16:15,5,Squair - 2,65
+16:16,6,Squair - 2,66
+16:17,7,Squair - 2,67
+16:18,4,Squair - 2,68
+16:19,5,Squair - 2,69
+16:20,4,Squair - 2,70
+16:21,4,Squair - 2,71
+16:22,2,Squair - 2,72
+16:23,3,Squair - 2,73
+16:24,3,Squair - 2,74
+16:25,2,Squair - 2,75
+16:26,2,Squair - 2,76
+16:27,2,Squair - 2,77
+16:28,1,Squair - 2,78
+16:29,1,Squair - 2,79
+16:30,1,Squair - 2,80
+16:31,1,Squair - 2,81
+16:32,1,Squair - 2,82
+16:33,2,Squair - 2,83
+16:34,1,Squair - 2,84
+16:35,1,Squair - 2,85
+16:36,2,Squair - 2,86
+16:37,1,Squair - 2,87
+16:38,1,Squair - 2,88
+16:39,1,Squair - 2,89
+16:40,1,Squair - 2,90
+16:41,1,Squair - 2,91
+16:42,1,Squair - 2,92
+16:43,1,Squair - 2,93
+16:44,1,Squair - 2,94
+16:45,1,Squair - 2,95
+16:46,1,Squair - 2,96
+16:47,1,Squair - 2,97
+16:51,1386,Squair - 3,1
+16:52,1386,Squair - 3,2
+16:53,387,Squair - 3,3
+16:54,367,Squair - 3,4
+16:55,297,Squair - 3,5
+16:56,258,Squair - 3,6
+16:57,245,Squair - 3,7
+16:58,203,Squair - 3,8
+16:59,171,Squair - 3,9
+17:00,163,Squair - 3,10
+17:01,138,Squair - 3,11
+17:02,122,Squair - 3,12
+17:03,100,Squair - 3,13
+17:04,93,Squair - 3,14
+17:05,90,Squair - 3,15
+17:06,70,Squair - 3,16
+17:07,61,Squair - 3,17
+17:08,58,Squair - 3,18
+17:09,49,Squair - 3,19
+17:10,44,Squair - 3,20
+17:11,36,Squair - 3,21
+17:12,35,Squair - 3,22
+17:13,31,Squair - 3,23
+17:14,26,Squair - 3,24
+17:15,24,Squair - 3,25
+17:16,21,Squair - 3,26
+17:17,15,Squair - 3,27
+17:18,15,Squair - 3,28
+17:19,13,Squair - 3,29
+17:20,11,Squair - 3,30
+17:21,10,Squair - 3,31
+17:22,7,Squair - 3,32
+17:23,6,Squair - 3,33
+17:24,6,Squair - 3,34
+17:25,6,Squair - 3,35
+17:26,5,Squair - 3,36
+17:27,3,Squair - 3,37
+17:28,3,Squair - 3,38
+17:29,3,Squair - 3,39
+17:30,2,Squair - 3,40
+17:31,1,Squair - 3,41
+17:32,2,Squair - 3,42
+17:33,1,Squair - 3,43
+17:34,2,Squair - 3,44
+17:35,1,Squair - 3,45
+17:36,1,Squair - 3,46
+17:37,1,Squair - 3,47
+17:38,1,Squair - 3,48
+17:39,1,Squair - 3,49
+17:40,1,Squair - 3,50
+17:41,1,Squair - 3,51
+17:42,1,Squair - 3,52
+17:43,1,Squair - 3,53
+17:44,1,Squair - 3,54
+17:45,1,Squair - 3,55
+17:46,1,Squair - 3,56
+17:47,1,Squair - 3,57
+17:48,1,Squair - 3,58
+17:49,1,Squair - 3,59
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

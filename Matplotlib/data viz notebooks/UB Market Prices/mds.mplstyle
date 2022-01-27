@@ -1,0 +1,49 @@
+lines.linewidth: 4
+lines.solid_capstyle: butt
+
+legend.fancybox: true
+
+axes.prop_cycle: cycler('color', ['008fd5', 'fc4f30', 'e5ae38', '6d904f', '8b8b8b', '810f7c'])
+axes.facecolor: ffffff
+axes.labelsize: medium
+axes.grid: false
+axes.edgecolor: 010101
+axes.linewidth: 1.0
+axes.titlesize: x-large
+axes.axisbelow: True
+axes.spines.top: False
+axes.spines.left: True
+axes.spines.right: False
+axes.spines.bottom: True
+
+
+
+patch.edgecolor: ffffff
+patch.linewidth: 0.5
+
+svg.fonttype: path
+
+grid.linestyle: -
+grid.linewidth: 1.0
+grid.color: cbcbcb
+
+xtick.major.size: 0
+xtick.minor.size: 0
+ytick.major.size: 0
+ytick.minor.size: 0
+xtick.labelsize: medium
+ytick.labelsize: medium
+
+font.size:14.0
+
+savefig.edgecolor: ffffff
+savefig.facecolor: ffffff
+
+figure.subplot.left: 0.08
+figure.subplot.right: 0.95
+figure.subplot.bottom: 0.07
+figure.facecolor: ffffff
+figure.figsize: 12, 8
+
+figure.dpi: 150
+savefig.dpi: 300
