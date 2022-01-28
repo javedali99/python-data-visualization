@@ -45,7 +45,7 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [2D histograms / heat maps / levelplots](./ipynb/heatmaps.ipynb)
 
-[[back to top](https://github.com/javedali99/python-data-visualization/Matplotlib#matplotlib-plots-gallery)]
+[[back to top](https://github.com/javedali99/python-data-visualization/Matplotlib/matplotlib-plots-gallery)]
 
 <br>
 <br>
