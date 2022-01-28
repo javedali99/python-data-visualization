@@ -80,7 +80,7 @@ Or even better: It would be great if you would simply fork this project and send
 
 <a href='./ipynb/barplots.ipynb'>![](./images/barplots.png)</a>
 
-[GitHub Rendering](./ipynb/barplots.ipynb)]
+[[GitHub Rendering](./ipynb/barplots.ipynb)]
 
 <br>
 <br>
