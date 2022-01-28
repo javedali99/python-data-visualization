@@ -1,4 +1,4 @@
-# matplotlib-gallery
+# `Matplotlib` plots gallery
 
 This repository is a collection of different `matplotlib` plots in IPython notebooks that I needed for my data visualizations.
 
@@ -32,9 +32,8 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 
 If you have any suggestions or want to make additions, I would be very happy if you could send me  
 
-- an [email](mailto:se.raschka@gmail.com),  
-- leave me a message on [google+](https://plus.google.com/u/0/+SebastianRaschka),
-- or even send me a tweet on [twitter](https://twitter.com/rasbt) (given you can fit it within the 140 character limit ;)).  
+- an [email](mailto:javedali28@gmail.com),  
+- or even send me a DM on [twitter](https://twitter.com/javedali99).  
 
 Or even better: It would be great if you would simply fork this project and send me a pull request.
 
@@ -46,7 +45,7 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [2D histograms / heat maps / levelplots](./ipynb/heatmaps.ipynb)
 
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+[[back to top](https://github.com/javedali99/python-data-visualization/Matplotlib/matplotlib-gallery#matplotlib-gallery)]
 
 <br>
 <br>
