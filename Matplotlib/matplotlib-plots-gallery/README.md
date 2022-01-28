@@ -81,6 +81,7 @@ Or even better: It would be great if you would simply fork this project and send
 <a href='./ipynb/barplots.ipynb'>![](./images/barplots.png)</a>
 
 [GitHub Rendering](./ipynb/barplots.ipynb)]
+
 <br>
 <br>
 <br>
@@ -92,6 +93,7 @@ Or even better: It would be great if you would simply fork this project and send
 <br>
 
 <a href='./ipynb/boxplots.ipynb'>![](./images/boxplots.png)</a>
+
 [[GitHub Rendering](./ipynb/boxplots.ipynb)]
 
 
@@ -165,7 +167,7 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [Formatting IV: Style Sheets](./ipynb/formatting_4.ipynb)
 
-[[back to top](https://github.com/rasbt/matplotlib-gallery#matplotlib-gallery)]
+
 
 <a href='./ipynb/formatting_4.ipynb'>![](./images/formatting_4.png)</a>
 
@@ -305,7 +307,6 @@ Or even better: It would be great if you would simply fork this project and send
 
 ## [Tips and Tricks](./ipynb/tricks.ipynb)
 
-[[back to top](https://github.com/javedali99/python-data-visualization/matplotlib-plots-gallery/README.md)]
 
 [[GitHub Rendering](./ipynb/tricks.ipynb)]
 
