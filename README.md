@@ -4,22 +4,26 @@
 </p>
 
 
-<h3 align="center">:mailbox: Connect with me :mailbox:</h3>
- <p align="center">
-      <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
-  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
- <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
- </p>
-
 This repository contains sample code for creating awesome data visualizations from scratch using different `python` libraries (such as `matplotlib`, `plotly`, `seaborn`) with the help of example notebooks. Please see the individual folder for python jupyter notebooks and datasets.
 
 If you find these resources useful, please give this repository a star ⭐️. 
 
 
 </br>
-
+<p align="center">
 <a href="https://mybinder.org/v2/gh/javedali99/python-data-visualization/HEAD"><img src="https://mybinder.org/badge_logo.svg"></a>
-</br>
+  </p>
+
+
+***
+<h3 align="center">:mailbox: Connect with me :mailbox:</h3>
+ <p align="center">
+      <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
+  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
+ <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
+ </p>
+ 
+ ***
 
 ## Python libraries for data visualization
 
