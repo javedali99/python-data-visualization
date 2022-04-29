@@ -1,4 +1,12 @@
-# Tutorials
+# Subplotting
+
+## [Arranging multiple Axes in a Figure](https://matplotlib.org/stable/tutorials/intermediate/arranging_axes.html#sphx-glr-tutorials-intermediate-arranging-axes-py)
+
+Often more than one Axes is wanted on a figure at a time, usually organized into a regular grid. Matplotlib has a variety of tools for working with grids of Axes that have evolved over the history of the library. Here we will discuss the tools we think users should use most often, the tools that underpin how Axes are organized, and mention some of the older tools.
+
+[Jupyter Notebook](https://github.com/javedali99/python-data-visualization/blob/main/Matplotlib/arranging_axes.ipynb)
+
+<br>
 
 ## [Creating Subplots in Matplotlib](https://python-course.eu/numerical-programming/creating-subplots-in-matplotlib.php)
 
@@ -101,8 +109,4 @@ plt.show()
       </a>
 </p>
 
-## [Arranging multiple Axes in a Figure](https://matplotlib.org/stable/tutorials/intermediate/arranging_axes.html#sphx-glr-tutorials-intermediate-arranging-axes-py)
 
-Often more than one Axes is wanted on a figure at a time, usually organized into a regular grid. Matplotlib has a variety of tools for working with grids of Axes that have evolved over the history of the library. Here we will discuss the tools we think users should use most often, the tools that underpin how Axes are organized, and mention some of the older tools.
-
-[Jupyter Notebook](https://github.com/javedali99/python-data-visualization/blob/main/Matplotlib/arranging_axes.ipynb)
