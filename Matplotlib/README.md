@@ -15,6 +15,12 @@ Sometimes it is desirable to have a figure with two different layouts in it. Thi
 [Jupyter Notebook](https://github.com/javedali99/python-data-visualization/blob/main/Matplotlib/subfigures.ipynb)
 
 
+## [Tutorial on Plot Organization in matplotlib — Your One-stop Guide](https://github.com/maticalderini/Tutorial_pltOrganization)
+
+A brief tutorial on how to organize multiple subplots with different positions and sizes on matplotlib.
+
+[Jupyter Notebook](https://github.com/maticalderini/Tutorial_pltOrganization/blob/master/OrganizationTutorial.ipynb)
+
 
 ## [Creating Subplots in Matplotlib](https://python-course.eu/numerical-programming/creating-subplots-in-matplotlib.php)
 
