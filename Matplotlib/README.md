@@ -8,6 +8,14 @@ Often more than one Axes is wanted on a figure at a time, usually organized into
 
 <br>
 
+## [Figure subfigures](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subfigures.html)
+
+Sometimes it is desirable to have a figure with two different layouts in it. This can be achieved with [nested gridspecs](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/gridspec_nested.html), but having a virtual figure with its own artists is helpful, so Matplotlib also has `subfigures`, accessed by calling `matplotlib.figure.Figure.add_subfigure` in a way that is analogous to `matplotlib.figure.Figure.add_subplot`, or `matplotlib.figure.Figure.subfigures` to make an array of subfigures. Note that subfigures can also have their own child subfigures.
+
+[Jupyter Notebook](https://github.com/javedali99/python-data-visualization/blob/main/Matplotlib/arranging_axes.ipynb)
+
+<br>
+
 ## [Creating Subplots in Matplotlib](https://python-course.eu/numerical-programming/creating-subplots-in-matplotlib.php)
 
 ```python
