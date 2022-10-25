@@ -1,7 +1,7 @@
 # Python Science Tutorials :chart_with_upwards_trend::bar_chart:
 
 This repository will contain a series of scripts and notebooks to help people get acclimated to using Python for scientific publications.  
-Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)  
+ 
 
 ---
 
