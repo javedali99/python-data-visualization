@@ -52,7 +52,7 @@ This repository will contain a series of scripts and notebooks to help people ge
 
 ---
 
-### Visualizing Three-Dimensional Data - Heatmaps, Contours, and 3D Plots with Python   
+### Visualizing Three Dimensional Data: Heatmaps, Contours, and 3D Plots with Python   
 
 <p align='center'>
 <img src='https://miro.medium.com/max/1326/1*GVYJCJ3DyVO9TbnpUhSM5Q.png' height=400px>
@@ -64,7 +64,7 @@ This repository will contain a series of scripts and notebooks to help people ge
 
 ---
 
-### Intro to Dynamic Visualization with Python - Animations and Interactive Plots  
+### Intro to Dynamic Visualization with Python: Animations and Interactive Plots  
 
 <p align='center'>
 <img src='https://miro.medium.com/max/866/1*PxqmKvYvn2AUDxC_GetC9Q.gif' height=400px>
