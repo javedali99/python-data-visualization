@@ -1,0 +1,45 @@
+{
+    "font": {
+        "family": "Metric"
+    },
+    "hoverlabel": {
+        "font": {
+            "family": "Metric"
+        }
+    },
+    "xaxis": {
+        "tickfont": {
+            "size": 16,
+            "color": "#66605b"
+        },
+        "zeroline": false,
+        "gridcolor": "#e6d8cd",
+        "showline": true,
+        "linecolor": "#66605b",
+        "range": [
+            "2021-12-01",
+            "2022-03-15"
+        ]
+    },
+    "yaxis": {
+        "tickfont": {
+            "size": 16,
+            "color": "#66605b"
+        },
+        "zeroline": false,
+        "gridcolor": "#e6d8cd"
+    },
+    "title": {
+        "text": "Stock Prices in the Past Three Months",
+        "font": {
+            "size": 24
+        },
+        "x": 0.1,
+        "xanchor": "left"
+    },
+    "showlegend": false,
+    "plot_bgcolor": "#fff0e4",
+    "paper_bgcolor": "#fff0e4",
+    "height": 600,
+    "width": 800
+}
