@@ -6,23 +6,20 @@
 
 This repository contains sample code for creating awesome data visualizations from scratch using different `python` libraries (such as `matplotlib`, `plotly`, `seaborn`) with the help of example notebooks. Please see the individual folder for python jupyter notebooks and datasets.
 
-If you find these resources useful, please give this repository a star ⭐️. 
-
-
-</br>
+If you find these resources useful, please give this repository a star ⭐️ and you can also buy me some coffee ☕️. 
 <p align="center">
-<a href="https://mybinder.org/v2/gh/javedali99/python-data-visualization/HEAD"><img src="https://mybinder.org/badge_logo.svg" height="40"></a>
-  </p>
+<a href="https://www.buymeacoffee.com/javedali99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
+</p>
+
+
 
 
 ***
 
-<h3 align="center">:mailbox: Connect with me :mailbox:</h3>
- <p align="center">
-      <a href="https://twitter.com/javedali99"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter@javedali"></a>
-  <a href="https://www.linkedin.com/in/javedali18"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn@javedali"></a>
- <a href="https://javedali.net"><img src="https://img.shields.io/badge/Website%20-%2302569B.svg?&style=for-the-badge&logo=WordPress&logoColor=white" alt="LinkedIn@javedali"></a>
- </p>
+<h3 align="center">:computer: TRY THE CODE ONLINE :computer:</h3>
+<p align="center">
+<a href="https://mybinder.org/v2/gh/javedali99/python-data-visualization/HEAD"><img src="https://mybinder.org/badge_logo.svg" height="35"></a>
+  </p>
  
  ***
 
@@ -53,6 +50,4 @@ If you find these resources useful, please give this repository a star ⭐️.
 
 </br>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/javedali99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
-</p>
+
