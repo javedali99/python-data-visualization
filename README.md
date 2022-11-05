@@ -11,7 +11,7 @@ If you find these resources useful, please give this repository a star ⭐️.
 
 </br>
 <p align="center">
-<a href="https://mybinder.org/v2/gh/javedali99/python-data-visualization/HEAD"><img src="https://mybinder.org/badge_logo.svg"></a>
+<a href="https://mybinder.org/v2/gh/javedali99/python-data-visualization/HEAD"><img src="https://mybinder.org/badge_logo.svg" height="40"></a>
   </p>
 
 
@@ -50,3 +50,9 @@ If you find these resources useful, please give this repository a star ⭐️.
 - [VisPy](http://vispy.org/) - High-performance scientific visualization based on OpenGL.
 - [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 - [PyGMT](https://www.pygmt.org/latest/index.html) - PyGMT is a library for processing geospatial and geophysical data and making publication quality maps and figures. It provides a Pythonic interface for the Generic Mapping Tools (GMT), a command-line program widely used in the Earth Sciences.
+
+</br>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/javedali99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
+</p>
