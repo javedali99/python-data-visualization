@@ -26,6 +26,7 @@ If you find these resources useful, please give this repository a star ⭐️ an
 ## Python libraries for data visualization
 
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
+- [PyGWalker](https://github.com/Kanaries/pygwalker) - Turn your pandas dataframe into a Tableau-style User Interface for visual analysis.
 - [bokeh](http://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
 - [bqplot](https://github.com/bloomberg/bqplot) - plotting library for IPython/Jupyter notebooks - front-end in d3
 - [Chartify](https://github.com/spotify/chartify) - Bokeh wrapper that makes it easy for data scientists to create charts.
