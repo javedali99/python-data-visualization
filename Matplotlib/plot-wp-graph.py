@@ -1,3 +1,37 @@
+"""
+Visualization of Death Rate Gap Over Time
+
+Author: Javed Ali
+Date: October 22, 2023
+
+Description:
+This script visualizes the growing gap in death rates between the wealthiest and poorest areas over a span of 40 years, 
+from 1980 to 2020. The data is plotted on a 2D chart, highlighting key points with annotations.
+
+Key Components:
+- Data: Years (`1980, 2000, 2015, 2020`) and death rates for both wealthiest and poorest areas.
+- Visualization: 
+  - Filled region between two lines representing the difference in death rates.
+  - Individual lines and markers for both death rates.
+  - Annotations indicating the difference in death rates at specific points.
+  - Dotted lines connecting the death rates to highlight the difference.
+- Styling:
+  - Removal of top, right, and left spines for clarity.
+  - Horizontal grid lines for better readability.
+  - Custom x and y tick labels.
+  - Title, subtitle, and footer information for comprehensive understanding.
+
+Sources:
+Data for this visualization is sourced from the "Centers for Disease Control and Prevention" and the "U.S. 
+Census Bureau", as referenced in the footer of the plot.
+
+Usage:
+To visualize the data, simply run the script. The matplotlib library is utilized to generate the plot, 
+which displays upon execution.
+
+"""
+
+# Import required libraries
 import matplotlib.pyplot as plt
 
 # Data
