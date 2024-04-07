@@ -1,0 +1,68 @@
+# Gruvbox-Dark matplotlib style
+# Hacked together by Emil Rivera-Thorsen
+# Based on Héloïse Stevance's blog post:
+#     https://www.hfstevance.com/blog/2019/7/22/matplotlib-style
+# and the gruvbox color scheme by Pavel Pertsev:
+#     https://github.com/morhetz/gruvbox
+# To check more avaialble customization options see:
+# https://matplotlib.org/tutorials/introductory/customizing.html
+
+text.color : fbf1c7   # Non-quoted hex code
+
+# FIGURE
+figure.facecolor : 282828
+figure.figsize  : 7, 4  # Adjust according to dpi and your software
+figure.dpi : 200  # I have a HiDPI laptop. You may want to change this.
+
+# AXES
+axes.titlesize : 14
+axes.labelsize : 12
+axes.edgecolor : fbf1c7
+axes.facecolor : 32302f  
+axes.labelcolor : fbf1c7
+axes.linewidth : 0.75
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : True
+axes.spines.left : True
+
+# FONTS
+font.family : serif
+font.serif : Palatino
+
+# GRID
+axes.grid : True
+grid.alpha : 0.93
+grid.color : 504945
+grid.linestyle : :
+grid.linewidth : 0.8
+
+## Alternative grid style:
+# grid.linestyle : -
+# grid.color : 282828
+# grid.linewidth : 1.
+
+# LINES
+axes.prop_cycle : cycler('color', ['b8bb26', 'fabd2f', '83a598', 'd3869b', 'fe8019', '8ec07c',  'a89984', 'fb4934']) #hex colours quoted here for some reason
+lines.linewidth : 1.3
+lines.markeredgecolor : 'none'
+
+# SCATTER PLOT
+scatter.marker : .
+
+# TICKS
+xtick.top : False
+ytick.right : False
+
+xtick.labelsize : 10
+xtick.color : fbf1c7
+xtick.direction : out
+ytick.labelsize : 10
+ytick.color : fbf1c7
+ytick.direction : out
+
+
+# FIGURE OUTPUT 
+savefig.dpi : 300 # Minimum bitmap resolution required by most journals.
+
+
