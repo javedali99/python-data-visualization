@@ -7,7 +7,6 @@ Enhance your data visualizations in Python with these styling libraries designed
 **Aquarel** simplifies the process of styling Matplotlib plots. It provides a straightforward way to apply themes to your visualizations, ensuring that your plots not only convey the right information but also do it with style.
 
 - GitHub Repository: [Aquarel](https://github.com/lgienapp/aquarel)
-- License: MIT
 
 ## Rosé Pine
 
