@@ -38,3 +38,8 @@ Enhance your data visualizations in Python with these styling libraries designed
 
 - GitHub Repository: [GruvBox](https://github.com/thriveth/gruvbox-mpl/tree/master)
 
+## Matplotlib Stylesheets
+
+This repository contains a collection of stylesheets for Matplotlib, offering a variety of themes to customize the appearance of plots. The stylesheets are easy to apply and can significantly enhance the visual appeal of data visualizations.
+
+- GitHub Repository: [Matplotlib Stylesheets](https://github.com/dhaitz/matplotlib-stylesheets)
