@@ -6,11 +6,13 @@
 
 This repository contains sample code for creating awesome data visualizations from scratch using different `python` libraries (such as `matplotlib`, `plotly`, `seaborn`) with the help of example notebooks. Please see the individual folder for python jupyter notebooks and datasets.
 
-If you find these resources useful, please give this repository a star ⭐️ and you can also buy me some coffee ☕️. 
+If you find these resources useful, please give this repository a star ⭐️. 
+
+<!--
 <p align="center">
 <a href="https://www.buymeacoffee.com/javedali99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 </p>
-
+-->
 
 
 
